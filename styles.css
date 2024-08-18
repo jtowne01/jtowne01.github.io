@@ -1,0 +1,99 @@
+@charset "utf-8";
+
+/*
+   New Perspectives on HTML5 and CSS3, 8th Edition
+   Jason Towne's Jumpy Tarantula Stylesheet
+   
+   Filename: styles.css
+*/
+
+body {
+  background-color: black;
+}
+
+main {
+  overflow: auto;
+  position: relative;
+  height: 450px;
+  width: 100%;
+  color: #ffffff;
+}
+
+header {
+  padding: 20px;
+  text-align: center;
+  color: #ffffff;
+}
+
+header h1 {
+  color: red;
+  margin-bottom: 10px;
+  text-align: center; 
+}
+
+main h2 {
+  margin: 0;
+  color: red;
+  text-align: center;
+}
+
+.horizontalNavigation {
+  display: flex;
+  justify-content: center; 
+}
+
+.horizontalNavigation ul {
+  list-style-type: none; 
+  padding: 0; 
+  margin: 0; 
+  display: flex; 
+}
+
+.horizontalNavigation li {
+  margin-right: 20px; 
+}
+
+.horizontalNavigation li:last-child {
+  margin-right: 0; 
+}
+
+.horizontalNavigation li a {
+  color: white; 
+  text-decoration: none; 
+  padding: 10px;
+}
+
+.horizontalNavigation li a:hover {
+  text-decoration: underline; 
+}
+
+main p {
+  text-align: left; 
+}
+
+footer {
+  margin: 0;
+  color: #ffffff;
+  text-align: center;
+}
+
+header img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto 0; 
+}
+
+footer a {
+  color: white; 
+  text-decoration: none; 
+  padding: 10px;
+}
+
+footer a:hover {
+  text-decoration: underline; 
+}
+
+footer a + a {
+  margin-left: 20px; 
+}
