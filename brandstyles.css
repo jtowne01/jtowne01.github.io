@@ -8,7 +8,7 @@
 */
 
 body {
-    background-color: #000000; 
+    background-color: #D2B48C; 
     font-family: Georgia, serif;
     color: #FFFFFF; 
     margin: 0;
@@ -18,7 +18,7 @@ body {
 
 
 nav {
-    background-color: #696969; 
+    background-color: #B8860B; 
     padding: 10px;
     text-align: center; 
 }
@@ -36,7 +36,7 @@ nav li {
 }
 
 nav a {
-    color: #FFD700; 
+    color: #000000; 
     text-decoration: none;
     margin: 0 15px;
 }
@@ -54,13 +54,13 @@ h1, h2, h3, h4, h5, h6 {
 
 
 footer {
-    background-color: #696969; 
+    background-color: #B8860B; 
     padding: 10px;
     text-align: center; 
 }
 
 footer a {
-    color: #FFD700; 
+    color: #000000; 
     text-decoration: none;
     margin: 0 15px;
 }
