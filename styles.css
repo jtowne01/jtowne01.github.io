@@ -25,17 +25,12 @@ header {
   color: #ffffff;
 }
 
-h1 {
-  color: red;
-  text-align: center; 
-}
-
-h2 {
+h1, h2, h3 {
   color: red;
   text-align: center;
 }
 
-body, h1, h2 {
+body {
   font-family: Arial, sans-serif;
 }
 
