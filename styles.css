@@ -35,6 +35,10 @@ main h2 {
   text-align: center;
 }
 
+body, h1, h2 {
+  font-family: Arial, sans-serif;
+}
+
 .horizontalnavigation {
   display: flex;
   justify-content: center; 
