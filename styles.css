@@ -25,12 +25,12 @@ header {
   color: #ffffff;
 }
 
-header h1 {
+h1 {
   color: red;
   text-align: center; 
 }
 
-main h2 {
+h2 {
   color: red;
   text-align: center;
 }
