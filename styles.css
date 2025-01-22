@@ -3,7 +3,7 @@
 body {
     background-color: #927fbf; 
     font-family: Georgia, serif;
-    color: #c4bbf0; 
+    color: #00003D; 
     margin: 0;
     padding: 0;
     text-align: center; 
@@ -63,7 +63,7 @@ footer {
 }
 
 footer a {
-    color: #c4bbf0; 
+    color: #00003D; 
     text-decoration: none;
     margin: 0 15px;
     font-size: 24px;
