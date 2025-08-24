@@ -67,7 +67,7 @@ main {
   margin: 0 auto;
   text-align: left;
   background-color: #95A3B3; 
-  height: 700px;
+  height: 710px;
   font-size: 28px;
   line-height: 1;
   color: #222222;
@@ -101,5 +101,6 @@ h2, h3, h4, h5, h6 {
 .gallery img:hover {
   transform: scale(1.1);
 }
+
 
 
